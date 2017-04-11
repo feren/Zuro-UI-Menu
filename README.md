@@ -1,6 +1,5 @@
-cinnamon-slingshot
+Zuro UI Menu
 ==================
 
-A clone of Pantheon's Slingshot launcher in the form of a Cinnamon applet.
+An Applications Menu built for feren OS
 
-**My forked version adds a power button for session/poweroff options**
